@@ -1,0 +1,6 @@
+Zelda Majora's Mask;N64;gameonly
+Conker's Bad Fur Day;N64;gameonly
+Lufia;SNES;gameonly
+Halo 4;X360;OVP
+Tetris;GB;OVP
+Rez;SDC;OVP
